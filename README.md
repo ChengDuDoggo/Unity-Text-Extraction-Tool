@@ -1,5 +1,3 @@
-# Unity-Text-Extraction-Tool
-
 ## Unity文字字符提取工具
 可以提取出Unity项目中，Asset文件夹下的所有预制体和场景(场景需要放入Building Setting)中的Text和TextMeshPro组件里的text中的字符内容  
 可以更改工具脚本中的正则表达式过滤规则来自定义提取出项目中自己需要的字符  
